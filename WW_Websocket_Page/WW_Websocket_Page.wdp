@@ -1,0 +1,125 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Websocket_Page
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Windows 32-bit executable
+    internal_properties : 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
+    configuration_id : 16837169478602852615
+    type : 1
+    generation_directory : .\Exe\Windows 32-bit executable
+    generation_name : WW_WebSocket_Page.exe
+    version :
+     major_version : 27
+     minor_version : 87
+     internal_generation_version : 1
+     autoincrement_version : false
+    language : 2
+  -
+    name : Site
+    internal_properties : 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
+    configuration_id : 16995136861712255734
+    type : 2
+    generation_directory : .\Exe\Site
+    generation_name : WTT WebSocket.wdl
+    version : {}
+    index_page_generation_name : index
+    language : 2
+    64bits : true
+ elements :
+  identifier : 0x4059c673000424b1
+  elements :
+   -
+     name : index
+     identifier : 0x4059ea38005de0aa
+     internal_properties : CAAAAAgAAADCWYE7ehsRDLDO2FnQu36BRcGoQzbwdV02AQPhXwP57S1gio1erXRYf3mFimmmhoK7VvrlhLycKn7xZTE4yl654spA
+     physical_name : .\index.wwh
+     type : 65538
+     report :
+      fr-FR : FR
+     configurations :
+      -
+        configuration_id : 16837169478602852615
+        excluded : true
+   -
+     name : WIN_Main
+     identifier : 0x4218d1b000200f38
+     internal_properties : CAAAAAgAAAC7l+MnhMFpckvdmJ82cYeGoyB+JpP5MjF26SvFr0PTPbcJEf4jnfP2GAT++ro2wjaepg==
+     physical_name : .\WIN_Main.wdw
+     type : 2
+     configurations :
+      -
+        configuration_id : 16995136861712255734
+        excluded : true
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ wb_skin : 220 BStrap
+ wb_color_palette : BStrap
+ site_type : 2
+ languages :
+  - en-GB
+ wd_style_sheet : .\WW_WebSocket_Page.sty
+ wb_style_sheet : .\WW_WebSocket_WTT26.wws
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : index
+     parameters : []
+     title :
+      fr-FR : WTT Socket
+      en-GB : WTT Socket
+     description :
+      fr-FR : WTT Socket
+      en-GB : WTT Socket
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAABoUUdeDQoI53sd/WjCd33B9EOxrdE+IMIQX/UbgYADz/a/lodo4GfypglYipqq8CbA4eo23BBz++rufpYATCetTkVmCPyVAcA=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Site
+     identifier : 0x4059ea1600595959
+     code_elements :
+      type_code : 159
+      p_codes : []
+   -
+     name : Windows 32-bit executable
+     identifier : 0x4218d160000fd706
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : WW_Websocket_WTT26
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

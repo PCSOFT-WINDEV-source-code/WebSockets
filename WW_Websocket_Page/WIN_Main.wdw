@@ -1,0 +1,582 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WIN_Main
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : WIN_Main
+ identifier : 0x224ee1b304b6d6f1
+ internal_properties : CAAAAAgAAACES/F+KJyxYLOXFw87fol1a/kpp7HixTNOE6FynJA3vofiKHEVLmsZoI9TmIIhFxKoshgAUlpUZ17aON8v5HdyanuF4ZBEw25OdgGhx3g/0+MCHzmt5HIv2KzmYLwHR7cbpp48Pw8o+kLFx17HeaoIhAz+GqHXfHtzatSxSfJi33IeAbrkMCrzgmIzhgJYD42/GzNpNeLagWLWBZ5OzCKAVenY/bzlB9zuQ33OFMe8G4WuBPdwuXq8IYT72Lef9MS4ye9RQCm/HPqMClHw3yFkEEjyseaKT8d2aWX9jg/7X2ezfXR3QMCSdOUoqE4dK61hqK5gineriIFTTHMKNAgpAknWeh8J0DAxXdBNvA3mLw1jvC8sCn/Ia7oMXJvYWXykybfWkWAmFhbKI8l/JLr19kEwXqOQ07YZMaZ8AS9evAY9d5lc2V2pH+rJ0EuQlta/5gAwzqlDflYH1y9hJ9soQSwiXdZwdZ3pDEo3dSQ/QchPAzkh+I3YbQ1nrpP6R+DPn8t9pD47AEORk5lYmWY84hZxP2SV3i+QL/Zcg10LNxMzOpbjQ0QuwJCvq2ZBQWi3XzMp0GI8YBn5Cl5Yt6ICiqNRzanReA7MV89Ly9fAN6O8GG/Bg6fbv5glt2zJibNVNvdxfMsseO1w/SwTtVIaFg/h/DNY
+ properties :
+  width : 800
+  height : 600
+  widthClient : 798
+  heightClient : 568
+ controls :
+  -
+    name : STC_INFO
+    identifier : 0x224ee1b304b7d6f1
+    internal_properties : CAAAAAgAAAAKZPGf997W72KmB/zsUR+0sHbQ/CplRe4OH8R6Rcow4OgtaIBNWxQmmGYgtqYKsezWEdqm/kz94G45SrT2QxpCwg6Jh3O4+5xvTJDN5gNdXY8FyYzYHvIVmJl6qM0UkTrsYRgw05aoZY7Rt6VGWUqrCqQbCJD2Cui/s5Fpth30hUWs/Am/qNJkjOFTgqVMB2STqZgS+0TwOnMShn4w6WwtjL3ZHRiTLGgyPjTsmN0zfbiJJPdJo2ujQpSw60bT+vP3jSW6E+7r3JOuofLDCvvOMUHEx8RnfJmiB+J8w/Hj1zcuPN9kQd8YdLnCD+HUKq7mHKBFJXox5D7h8NWgr9HY+0VplUHnWTe/bR7hruBZmyX0yAEpenIubiQ9MIteBzNMDXWK5WfsJld2vTJFi5oqgojJ/KnYmCVMR78nW0G5OUHh96R5wz18BwSKkbLD40xPhA73UsImnptkxU/Y+dZD3QVtAwkvoVgVI+s=
+    properties :
+     x : 116
+     y : 227
+     width : 567
+     height : 114
+    type : 3
+    code_elements :
+     type_code : 2
+     p_codes : []
+  -
+    name : EDT_Your_name
+    identifier : 0x224ee1b304b8d6f1
+    internal_properties : CAAAAAgAAADXTcSlqbghI6PpR9vSksd8zU4E3awov0EU/F+786ugq6Gz/0RlGJig9847vz0whqZA01RGqRedPWg47pemFJ41RliCZDZsGBfplx54Wc4cGceQvaK5zFV4bR+cfqAJMGSPoeI6s4pT6StK3XxoyhYwAQ1SnIJqY6ADTV2QkW3Pb+73Ar8rA7n3jqNlU3HneJmHKcJH/gYdv7ZHvT7FVUvZdBgTW+cJFYwNIVDdYsnS4qgiTlBYzSAD3k4ZQCN7eOD611aCS7jGBPVu7sKgk8VgSwPQBeZaMVmZNo6Kl+pVMwrbYkH9FVxjKtEn5TtXkv54usA+OI9LABHJR6yLHO+iaWbzyOpwfuIW68EG4F14Sl8SIzLD5e7r2VP7ubCck4U2FhD6pWRP9k9qucsGY4kR7nHiZrv+4a7lhobbtapHh1Yqk2CB7VMc8od1QbGhMS1lyyZmCw2a5fzndTN94DWIXwreuQgSWd9aNSoV29kfFEq8AM9rrD87vIWny4rN15jgjt4bGCQXYXkFppm2Fuwy8tlhP+yw+9N8se1PPhWEwTsUofSN7XcJtHooMGvRHsi2potwZg+WPmwm2PJT7T9YwmHHwh/sJkbhzy2XxkAWRtLjoRLCYDBvliSLrwtjXpF4J0Bfqo4P0tQjalbp3jmviRkEPqy0s8HK8X/X3cm5aEsI+tTaLLACztspqRCxeX0esGNNiuxgY+znohUMIbl+bzVCKxiYcQBrihJNyMETC0AFLrmeTvsrBfB2TEYVSNQ6ijket5vSK8a6C71rlAl8XtjJenKoWhNYEKBa/GaLIX1Gh0Yuy22VpT0HD1sRhqZ6nVerlqTb07ASjg0tePbo9zPTuRBm1fq50XGg0wDuNEmU2CDwk5IjDtUZP81uv/VOymSdqdSKVpM3TIjcL5yAJOkM+c4H4k0oOmt/cT0AdjWDij70GCAVTgsDc8BlsGBQ+/QivSSLsy7jWukBkIACI8MG35UgK+KXEGXoAFQ1ypzIJYHnCWWs+dkJxfcOdj8PRVwqRW6j4hs6F1haGXWxUR5ZiJr2+MCuqq7sxhBSSUAcQmE4jy8N7EubaXn8fmUWsIebM6CTnKwDM7kXPHWcLA8mVIAzP+GJzU8fmZYAtwp5NnIC7ILHi4zJ6Lb0cjsV77xZfKCDzJmZR5oB8uhWi1fCntjWBA5hdqydr/EpcU9uCmMd0zC0OScexJ4Ndt4U4s4G5AQH6bH4WOSDh9U8L+Sw6ER9NZ45Fa6UwA==
+    properties :
+     x : 214
+     y : 247
+     width : 373
+     height : 30
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+  -
+    name : LOOP_Messages
+    identifier : 0x224ee1b304b9d6f1
+    internal_properties : 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
+    properties :
+     x : 6
+     y : 6
+     width : 591
+     height : 523
+    controls :
+     -
+       name : STC_WHO
+       identifier : 0x224ee1b304bcd6f1
+       internal_properties : CAAAAAgAAAAJkbjJx9w7CPsR2mVLSNgc8Cy2pyn06/xdMhbDDSStgrhRfDCGWnJYJztErDqQRAjxzgG0KJTywvpUemgnGsRBKwKaosZrFZTROU3dKdjP3GJuyu2TqZq6+CAF8DZ8VrkmLyfotP8byF6sWAOPOsUAgK6mJmmnIb48wKX6LSbKFbgkpmNJO65XZynTNs0lzdbu4UQBirSn7C8ctD/jedu5rMiG4TpTdrPgOsky+xgkcEeGZHoNincsdtutmswZprDDGQsJKs6kEBoY+szUQcceRpNUdMurCA8abXue9zJaWELnV9ivB2cVxGDrWM9vRrm0kgNsKgqS5yrp4eoWHm43gYNjmUjVwRJ2L/ak2UGuKs3t2eHH5UBRcf8J8fw6mk7LfYAsTG8j//iJ7arbXPfLXLM/v9dFVx1QWNfdEOz/z5pYkr87XEyf5CBvt2B4mRVdY+yH5jsUccm4Ovh7aF087Q==
+       properties :
+        x : 6
+        y : 6
+        width : 560
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_MESSAGE
+       identifier : 0x224ee1b304bdd6f1
+       internal_properties : CAAAAAgAAAAKoauOqShfVVj1wh2d9aZ299S646lhc156dJUROP4rT8fUwi1ujmsCoi/0dBpB8DtV5/5wKcfkem6nNZEjbeBpi5LTd7YYPiYgj96BCC6DRapCEIFks2Xq3PyOizq+eom8NVKkF11oC2tasrWTrP02CbWzE56WPQFdtFm+YXrXUYgTo1x7KrliPu8fBJsY41Rf0w4VhPQ7CWv1jHTDEHEFSnhACzFV1yR8Kv7pPqz/c4eFBAuS6B4Tf3UoTMz3L9HQdwlcnh9Oq8vo0TI46e4dZSewm4PA6kDvG4Kgd9iTufOvL88X0lGO+6YKXVoQNPmY0/DWphrPZwMA9JF0Bcx/Uu5dn6gIfLB5ATRUxpMS7GQv/7Vc5Bf2ciEsHmGxOVGN9IeNFqfLT+AIBv7FR74/nDAbPM+IO5ruue2GUqYlmW4Gxdl751OQ9qSKdgSv31HoSYEn0SgX3HIpLYTcyYdlOsQTdzUxZMKtJGwclzw=
+       properties :
+        x : 6
+        y : 30
+        width : 560
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    columns :
+     -
+       name : ATT_WHO
+       identifier : 0x224ee1b304bad6f1
+       internal_properties : CAAAAAgAAAAaTcY61Mstj8jwF1HurvAHxY6rkOal5dj2X/9tyGVDSidx0liBWhwaC5NCSWyefiDjXnAkUJ9pHqrWu8RqgmMh1S+Oqhg4HTdoOKYGyjc7dUNt7yjl42F1v3v/mogXmbMCgD6Ve29Jw1NEiBith+1N3+GR5BIGxm8p+wWaYFPnsQwK
+       type : 3
+       content :
+        identifier : 0x2557b2b900ff7125
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_Message
+       identifier : 0x224ee1b304bbd6f1
+       internal_properties : CAAAAAgAAAB2/s4ic4TLHqdrEUA5HyMWNz97V1aH/ZNoAbpRoCAIfm0HQD9wgK0lfWRivc8aXQYVkha/a2wXAU7WiJxf2PMb+TWOHb5x28OuOZ1HOX/fSQwXdU7uCTRQ6ItenY+RX3WRQih3lLkYfmSeWxuYBbvvTMtxgJH4JmaeAZ9xRZRc+7QtEoV5Ag==
+       type : 3
+       content :
+        identifier : 0x2557b2b901017125
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     type_code : 42
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : LOOP_CLIENTS
+    identifier : 0x224ee1b304bed6f1
+    internal_properties : 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
+    properties :
+     x : 603
+     y : 6
+     width : 189
+     height : 523
+    controls :
+     -
+       name : EDT_ID
+       identifier : 0x224ee1b304c2d6f1
+       internal_properties : CAAAAAgAAADaPu8jXlwivgsd8x8S8XF6na/pBU1SxEB94+t2i4scsiew4F22Ldlrr8qPf38odol7GFVL90xCLCrXP0H0SGBjfBUdpFi/wjN+VgwAacDpDAPb1shEe6Up/AdzxibTbI5e8qN10W2Kz6wBsgtM+IWSw1CeTA6FJs/WqSkRajfSZT/MAc/0IJSj7SvgRVmQ7fO6HYVUg/5VWvKMtcdYAV7XiqZugfePbdoJ8Js39N0OqBaGJtJP2vmOVbjqpFsnTlPGJXHEY+2qRj1KGA+51ha5iwgPRXKnl233Sj4qAVMYAIzdXhJ2HsjWMM3FJiChX/zrKgND0uqNViHAxsZlIddytPllVB0Zc1qaGTgE/BoSLOG1CCwnn4CP7nT9E16T17MkCijKW7ItWYAYnvVBfc2f0zjio/lfSK50CKfBC45vF3eJbHjb1aWpaiiQCNmoIO0mldKeUHe2JfWpXbmm4PkoJPBrkn2VL3O78WUrnBVfyJNE2f3d4Sj/6Pbe6YhyntQy8hgpXxhCTBdghhxa2Cqfw9YbdNpUEy6w4lZTO5O+ch5QD6t1yzmlqi7a/skoLkRCzPW3AWykhOlP0dUbolu+2FHTpOOhU3jq4Pxr/YjK0eKLBhJxDKM7+QARuG4J46vTtOnuNU0QGbWmhlP2KK8z8B1zAQfcgSXo7UHsXxOPXZ3iKDkkjmWEeuxrObCwKVA2zb7Cwz8yfeEIekCqG2QsxDF6wdrO80SPtn9xnBmlJdJN7a1PR3NdxdvjPGVreJHqwb559Oc9Al3/A/WKAxiR6DdpbKM/lQmR0Ic2E6fLmnFSHhA9W3rY5eRyB9bMN2L41o4oKSo/zinrxPq6YMtl4huHCSMv1AyfHO2RT+Lez8y/pEGXE/qe20k1LQHqFYa0Dt2cT8X8iOzg5FyDWNQNF9GH/owua1eMEdI7/2KW9mHQ2HF1BWE0y5cXugnl9V2E9938bBxyGF1PRabyITaRMP/i6IZLIwG/5V2UPoQ1ddZAuabezbHqeRz7bsiRwl58igrqLQt7BGgeTGCjsps9mR3XUvpl1xOzspHMH9YGY8PX31MbZadNZW8ljleZybtFMpkhwB1MDalXDkDtU8Tw3ASI0OrhR9w02RC9s7gv4ex2BMHEvDa28MVhb3SvmFXMAmpYougCpf4+zIngxnHOy8LhJ63KE5OQe+QxZ9YUGPFVXVUCnHteK+zQfWaqKEXWdSuHOxOl5xl2TmPoj/6SMNdX
+       properties :
+        x : 131
+        y : 22
+        width : 41
+        height : 18
+       type : 2
+       code_elements :
+        type_code : 3
+        p_codes :
+         -
+           type : 276
+           enabled : false
+         -
+           type : 277
+           enabled : false
+         -
+           type : 278
+           enabled : false
+     -
+       name : STC_CLIENT_NAME
+       identifier : 0x224ee1b304c3d6f1
+       internal_properties : CAAAAAgAAAAWQKXfq8BycE9ZwceaLFu6FhEwXbZEZzw4TTOw3SeTHjnXKjHEQ+RoZBQnQMBOt55b2Zz8LOkP2l7HTgJWdh4AAbHwCQQBMuIPKUl2WAoeqS3H1OXizmLtMZs0kQKcHyPVd5xQz2nviUK56HIqqq5MDk7a7Wu6kshfmqrjKxq3mIgnGSrBfP4J7hux7xaA76Ops5GXSwRr6Dulkxk5ldOURntLF6xNGggvCL0qoWVeuvsgdTWz3muIBTHxoG8zI98XcYJqGYuwZ6LtPVhhgniLiZgGnwVxY/4GmgkfDCXHHTbh81S2jnDiV8EN5/W+gb+v3iqrIA0XbGWE/WPmMXSCRBsFne5ZhQzmh5bdEk4ghx/iJKeR3OD+AP6JfnJkV65n9MNFynQo+gBAKjsWWrlFgxMseVH21au7N7tpVT4dTcUssU8dlkpNZ8ETLXRPzOySPadGDbiYlSjOYdD+fc94C4U3P07PgTwhP/c=
+       properties :
+        x : 2
+        y : 4
+        width : 111
+        height : 20
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+     -
+       name : STC_TYPING
+       identifier : 0x224ee1b304c4d6f1
+       internal_properties : CAAAAAgAAADFAYQI9JZ4CQCT6AXDisEPkoRrSlqEwp4sFPR6vTZahjG5ORN5O1EabylrUiLv6jAuKBosLka3AxdoK1LdKWjXxBdn3EoiUTB8v7DNUqqCWxGaOS5pSSjF0aDpZRycEAbhmVDkGa7q8PxHKs5mm7Cojz8RdelsCGGI/5MyFIElCFYUqwPt3eqFk9IbZ7n1jTRfNwmeWusznVSgKbT28z32D3SsIca98CP1XH7zuiYeq9U4SDmv2/EdP6/+Z2J9x3sYIAnemNOeFlPihhYUAYhFFOPU41FwKkvdRKakLdctmDatw6Yb2yWBcj8vgRjleeA/TZCGy80TsJEVsM3Bjj3aN+WMp5OyqdjffVlZnJmfGCp0k/emIHC6W+irfXk1mD1ryFLF2/4evq/PuUuRaAZ7j+8qDMnt8FPwHqsFkt39mFnb3myVacIjQzylKAxO+bmVf9QlOJdvl+TwOBpG9wOJR7wFpHV6Wi/IZc9r1VoFpPVm77WsL2WYhb/SJh99H9zsyvMjs3t8unRUF8folLuMnhGCK9WB1g==
+       properties :
+        x : 119
+        y : 6
+        width : 52
+        height : 16
+       type : 3
+       code_elements :
+        type_code : 2
+        p_codes : []
+    columns :
+     -
+       name : ATT_NAME
+       identifier : 0x224ee1b304bfd6f1
+       internal_properties : CAAAAAgAAAC2PoYiA5QLHgfb0RCdv0rmwOg6z61f7fiSE0jC31mAiQXO+AF38kkd16GblURgsLqIqz01q/ZjaY6xAOPysJowDazwLg8K8CbTnT10tkVwgJsS+Df/JnGBQx7IO0aYVLCTWFYnw4z+tksiMi8+ZV663/Ev6bk7YQIS2RcJXWxEo6w1KsU5Qg==
+       type : 3
+       content :
+        identifier : 0x2557b2b901087125
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_WRITE
+       identifier : 0x224ee1b304c0d6f1
+       internal_properties : CAAAAAgAAADPYJEbqOHhf+/bkbyVzV9R/X2BuYav8YHkLViQmRHRJ37wu15L8bHRu2rC7X9YQbrLkDjdD3YbHT5LcPEZlFX9bYGGMmdy+F43uivvhg5QwJu2kpldLJ+tP1JlpqpI2DQe1z0K31bbQyEDUNJVes76c6Je40y3OuYUbzX/o4rNMqCn9v/gmw==
+       type : 3
+       content :
+        identifier : 0x2557b2b9010a7125
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+     -
+       name : ATT_ID
+       identifier : 0x224ee1b304c1d6f1
+       internal_properties : CAAAAAgAAACCVmmkpybVoGMfAFsHAq3HKBhGUAYB7UGHSr11/zzUDrGUc99DH6FWL9DGap5rr+08ZyOgjUbLYFRvND96wLDJtPBg80P9oQ8y9HLUPC5/ydFCIsgF8dqY6DMD3Szfzy3NkJDs/GK81GnA3l/oG3TuVMTojws0grEbgZY9
+       type : 3
+       content :
+        identifier : 0x2557b2b9010c7125
+        internal_properties : CAAAAAgAAADryTcE1wdYvD3vRXveAy878MY0tBGVtRJFCKec9ONjoMSjdXko/BUQ7/aa5td4J0QGwbNDZ7u6HVAmFeJiKUW3AIZke7mPEa6O3T80XKwyKxqdz/+IMzq1H7wKTkmLCftmXeih3L2wxA9F34R1rzMUewXfPfNhH+yFL0Z0QK0+gscBykmAbH8+KcjlpZVlWXf1O2O2UpXFTj2e+Oh2XQ==
+        type : 3
+       code_elements :
+        type_code : 46
+        p_codes : []
+    type : 30
+    code_elements :
+     type_code : 42
+     p_codes :
+      -
+        type : 35
+        enabled : false
+      -
+        type : 22
+        enabled : false
+      -
+        type : 24
+        enabled : false
+      -
+        type : 23
+        enabled : false
+      -
+        type : 25
+        enabled : false
+      -
+        type : 230
+        enabled : false
+      -
+        type : 241
+        enabled : false
+      -
+        type : 222
+        enabled : false
+      -
+        type : 223
+        enabled : false
+      -
+        type : 224
+        enabled : false
+  -
+    name : EDT_MESSAGE
+    identifier : 0x224ee1b304c5d6f1
+    internal_properties : CAAAAAgAAACjEYdsYRD+V8MHVqJwNTGSVlQQxEgGv7E6015aZyKnmGiUatyHqCm3vyqfsZqnjQYMYJw9R6KzyUmZQtQG51BngtFPdBMcyxG+owhh/O7NoCijM9wb8tWOUw1DBai07Ul8P69YQj3Ri9CgmJvMW3yUBOvpXy2kVmVNECnFmEgCqxnsAiyeXfhGWqDsEoMuk90aOKNE7k7qJw7s4sejM3cTv/gxCggP5hLBrX1RHsToJDVv4btWoEHCUzSJVzDVbjeIghBP6fYU2IVAJciajhE0FvOpazu8JeLekFJDuEz2ag6xCXOkyaQ/N2IKjDqc9EFQR0eLOJ84ExfPrkHyriFjHJhKkhDLR3Q93OcgEuUU/6H160HeuCUwUIzcxZieL8i/K19C39/XcLaFwS3hWQo4GVc87S2Qa5PJAJM/FwO7uKr7t5WR5jOfOjncgzGBtbJbF2nIA8cGdPtOPWMP0cnpnm+KSwpwHj3D3mwkLvNUQpu+bazDPdH9B6C4nYRcjM6EKncUF72oPHa1hKOqfAjdAh8sFPevztb3UJUsa7q64JivVCogfE6Mag5co04Ng0BMIv5PY1GosRAd72lS06L7u/2u+s7i7vzkVmwTk+oOTjB/ik6y7Y32BGap8amktrKmWOYDMrPHdmsATaSapEb2GRR9h7mTxOsG3l3ZhhaxuBbpQZZ994Naqzr2tHqGReS8QPylhwG3G/0r7jWohs+BzFtPbg7s5PQS8pDPwDEL+maTOGW4nUjmjPI1U2t1pCn46GRWcuaGlOVD7GchWh8QlVkdUpD4IzG5ciltI5qW6tBVC2P2tE2F/TChceRgrbv+DmlOKaF1vqfwyWF0cbOr3JYI2+LVsvAOtVG8YrhlkHK+z97irtlO118hBuupMzV5nXRW8W5TxLFW2WzpjktwTCismFIW7H5XF7WnC9s7LKu0CN9PyS4Awgte5Am2hlOxLlJlT2yZXh5qt1OXRuWfPix8T2jkYyECITSBK4V1psbZBuqLiAqKX/5SczZovE3zPMkAjn6wcGYWZ/+sF1rvFgs5NkzwslZVWCOj3I1vNSklM5NfAQGc3GDrNWOwoq5+TZqmQ/LzwVl08CUexpDHjCBp/tSyal8Ko+fNHKwY8YHtOLBhrEXpmahH8wQ5TyI1KO5C+9vwuqrRAbCRwkiOXrk1v8evpWyuS2Mlpmn7Nq6ye9cY+X0pfLKz8iZYbWdOWWOPEGLMb/UfATS9OVs8Kt4fvUQFhMhKd0Fp3oEwAKLVd+00X/pBARwbLumyLJIGpZZx+hFHry2zGUzCVZyu7qc0Yow3
+    properties :
+     x : 6
+     y : 533
+     width : 684
+     height : 33
+    type : 2
+    code_elements :
+     type_code : 3
+     p_codes :
+      -
+        type : 276
+        enabled : false
+      -
+        type : 277
+        enabled : false
+      -
+        type : 278
+        enabled : false
+      -
+        internal_properties : CAAAAAgAAABvSYlQr4Q9VhFq52jMxyY/0QuOzEY3JwuJsCtG6PUpqXv2uDjlgtVhErnvtmxSKzzhHPi0xtqJrf0khzg1O9d7Ejpr/t7D662H+WHvE5W5yVgyCyJnhp0cVw+Uz/QUpFem8uac2yFkEK+yUwg=
+        code : |1-
+         
+         // Indicates to other users that input in progress
+         jsTyping is JSON
+         jsTyping.event	= "typing"
+         SocketWrite("client", jsTyping..JSONFormat)
+        type : 17
+      -
+        code : |1-
+         
+        type : 65794
+  -
+    name : BTN_NoName1
+    identifier : 0x224ee1b304c6d6f1
+    internal_properties : CAAAAAgAAABRp05ZBLtd3q3zQLfK+JNndS8OkRMnzKKjkHsfST0FMY2RH6OPUFncnNLl1kMBBw0YIUECOo5rZSOHXbC7p1K6N30SPgZe2EUrl/GAuDjD6vHGV/dkyIc5TjOMz9HefKVGorTFIRtASeUvaHIQd/WZINzOCMN7fNCSrjYu3XceMKZIUQng/bcEJbXcTtuTExJ8BHcb0YIvsbxrJiLPP/uoGQkZ3z6fJUE0RQ8JQvi8GjdCY69Nwh3DAN0Xtq4tGiRbxDTpa4L7/PC817vZ2rZ56hxMdn2MjpAKqwPE0aTjWG12d+SkMJSXUK0qGrZGylm4yU76gWchB9vihtTBO+goArJdSZMBz01aw8bUyhz+aKDoZ32Nm+ZYRlzeR9BjfAhVe+Jzxh+/YGj0JOOJI7AUoO5U031zfUpbPhnYJXmaYQ2BKrWZix1Y69fMdb6MutHYRWuP4QL8nN4O3u/9YJyMRcU3yQVgwJ23wgCVRdkDanXLiBEmRqczoCjR6IQHLVDhuGdxZjovaZPJz+rKfPLlXSuMSqvERw5x8o8c2aJDERtExFbS70Y6Hs+ts2NODE66Le99l48GrqCJziMT4HYHSQqSPXY76oFOfozATh/Kr0IKyKxxI0pjoPaaHZlxheKsJumakhy7fYArz7Ke+tGKDISA6geKJQoLu8nwIX6RgD5EMwV+VP7M/hnDH9TXdQtus6ZZnminWv2q7BD+Z/9h1lVF5PVeGWSUk26V7yIRnAMQsIQwOPeyS3/MHuQQtzW7xEExUCreGCuT74uK9/kZpc5ctHKV1+gvAUC4GJfZ6VybcTUi5PlZRYk6DJxvVr3vzpmooshpfwmdq4tW3TU5HiYewIOOPrmljOaE0fNshgTlcESmLQ==
+    properties :
+     x : 694
+     y : 535
+     width : 98
+     height : 27
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAAhE3cL9Us6Emuw277gq2ipJ7FU4IjxE9+b1vcsBEHXPwWwJvQjLAExHM/fIDyKDe47jtKMoLjkBgRbCp+2CvgSi0PGNVMesoKqrESeLPzCCFn7yu3QVXAB9r6H3sWjEcKzh/GD4GnvfdlsncY=
+        code : |1-
+         
+         if EDT_MESSAGE <> "" then
+         	
+         	// Sends the message written
+         	jsText is JSON
+         	jsText.event	= "text"
+         	jsText.text		= EDT_MESSAGE
+         	SocketWrite("client", jsText..JSONFormat)	
+         	
+         	EDT_MESSAGE = ""
+         end
+        type : 18
+      -
+        type : 161
+        enabled : false
+  -
+    name : BTN_Enter
+    identifier : 0x224ee1b304c7d6f1
+    internal_properties : CAAAAAgAAABIrkdiBVkfF3rmOKsj7X9d04US9l01vySmoCHFv+XDdOdb7ngw0d6/dmnIX7KjK1T14OuP3WUw+AYw2XZMuk4kOumOLD1JlPAbaW0l3/fYGfivWX6B7v3j5HIikbJWpegWF7fEEEtindvkj1iRbYYC5rqG+Of48LSBSSkbJGH1R28Gdfb7GCzGXiCn7sn+fbcqal6dAJWTzidiFYCk0Vpvtn0gzjcvoXP2fG0hW0QqQSzCbYdOStbcAYx0ETnIAFaKSHJ3bITJWfgLG7NjnG1D+3Xb8qXi+qBSMY3Zuvp0zOCLTtXoyIpEhcrFn/eDZhqlMTr5984WOf135f37WZqLx4l10AujzJfPtd0M6Jk8E55RxHMW3pmRfWIUhXoOP+OYhJCoQ2zDb5VPxXhbeWvPUCr3WwUSOrLDq/hvX7Yg1PkcKoBj6Rp9+yiAHTwpsyC1utl94+TQc8lZehnD0HK+8pJTLLH/50f9YD9nSoC5kY8usiHzoWuGpLg0Zju/SFpSaj+FKB3dV6DGeYQhiRKi3Kzk/AAaOhNxtGCUuOfCKRQfOFZa/O9yOAs5n8Vqji2iIrJymBiKisCRV7f/3Fns36h4ZzjWjzwqGR1BX21zPFF09k7auPLki0iY5QitvnbZt3aCuV7YmO9YLKaTwAQAKK4vYNOG1+C0gwNmN64K1O6nqGdnFj21cykGZIocBETOQNBZGBNwNPAVJ30rEuk9MVjEOWiXB6twuUBDkSljYgux1aZ0Nnlv6ht1jd6KDLVUeYt52Z7jcG4xWJqp0hZ1eWbnyX+w2UN5U4jF0ebMHO4lHfm53hentycU0Pae/6b0wwZFGImKn3BzbP7DJQF6+1vUWL/O2gPmVKKwYpFLrQPkd02vJA==
+    properties :
+     x : 359
+     y : 281
+     width : 80
+     height : 24
+    type : 4
+    code_elements :
+     type_code : 4
+     p_codes :
+      -
+        internal_properties : CAAAAAgAAAB70rETdLPaWJu29n4p6TLCx9Q1p1X8YnAHi3OJWspsXuTrgEZPwC/zioFYJFG2mK1gmRgz9bdRLWt2oTSimxmOb55nl8z88JzZS1b+h7dFALUrJVOX1vRdY/9r8AVnwR+PDIbgxAhY2ToRH+GNtuOHyUcksHiqk7HrpWjXALbM
+        code : |1+
+         extern console
+         
+         
+         // Update customer data
+         jsNotification is JSON
+         jsNotification.event	= "register"
+         jsNotification.data		= EDT_Your_name
+         
+         // Register
+         SocketWrite("client", jsNotification)
+         
+         
+         // Clears the looper
+         LOOP_CLIENTS.DeleteAll()
+         
+         // Clears the list of messages
+         LOOP_Messages.DeleteAll()
+         
+         // Adds the first client that logs in
+         let N = LOOP_CLIENTS.AddLine()
+         LOOP_CLIENTS[ N ].ATT_ID		= JSClient.id
+         LOOP_CLIENTS[ N ].ATT_NAME		= EDT_Your_name
+         LOOP_CLIENTS[ N ].ATT_WRITE		= False
+         
+         // Goes to the discussion plane
+         MyWindow.Plane					= 3
+         
+         // Request the list of clients
+         jsQuery is JSON
+         jsQuery.event = "member_list"
+         
+         SocketWrite("client", jsQuery)
+         
+         
+        type : 18
+      -
+        type : 161
+        enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x292573e513b5f221
+  internal_properties : CAAAAAgAAACCv199ARoPUfG3WAPSG9eefhOOjWMQrs8CrX6cGGGJPoSHWBq4PXhStOWc1YnAZMZ5+EFR1WTDn8CTOTiyLnXPpAR5X8rsRkPZrm1yZeYDDt4kRzDPLbUf4Sh/mD3kd1D8V2drCFLmjeQhgpw7GKGwHRga+ZdjSqXGIC3LD1RracZ230hOmUJTj+ABDW4IHrw4PflmVGgp8E9KnAf/gselRrzEY90l3Cr9N00QijFYYrbrl4qF4kdim1YX6jYT4ezQhbJsU84ENZsxzq+o0JVHYQ8rxck600VhGV04/ao=
+  options : []
+ languages :
+  - en-GB
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAAAjFWXItEk/EPvcbGR+hALkgRfdOpVtIn+yZNxHnmSRFJegE/AnD2HbGAaMfhGCqfzkryHG9FVhjtF+iQYkZ59QBQ88Okhh0vjCoVhOagox2hvIqrJnU30QK15/ZA==
+ actionbar : {}
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     internal_properties : CAAAAAgAAAA5niP8DUEpWlsMNf7p/cItHLs1ctXnv0Oh3GrpwODtm3hZDdqZFlBP+GkCRgtSy1pZ1or7LZQ4i++PWU9QLbdzjiAPaVkQIHMP0w7K5lfcpIuMPEQ3bw3wUbxIt1Gg/bgLIr8NqPvb8B3GRpZaoUJfj6rCKS/rTX6KZT97y3i3EdDPVR0Sc51FSuRRIAPbWgIY0g3LUFzvO8z8abZSE7Ocobq6xKpMeF5/0Bg=
+     code : |1+
+      procedure MyWindow()
+      
+      MyWindow.Plane=1
+      
+      PingTimerID	is int
+      JSClient	is JSON
+      
+      // Opens the WebSocket connection
+      WebSocketClientConnect("client",SocketConnect_Callback,"localhost",80,"/WW_WebSocketServer")
+      
+      	INTERNAL PROCEDURE SocketConnect_Callback( nEvent int, sMessage string )
+      		
+      		switch nEvent
+      		
+      			// Open the connection
+      			case SocketOpening 
+      				
+      				STC_INFO	= ""
+      				
+      				// Ping at regular intervals
+      				PingTimerID	= Timer(Timer_Callback, 5s)
+      					INTERNAL PROCEDURE Timer_Callback()
+      						
+      						jsPing is JSON
+      						jsPing.event = "ping"
+      						
+      						// Transmission
+      						SocketWrite("client", jsPing)
+      					end
+      				
+      			// Receiving a message
+      			case SocketMessage
+      				
+      				jsMessage is JSON = sMessage			
+      				
+      				switch jsMessage.event
+      				
+      					// The server validated the connection
+      					case "connection_established"
+      						
+      						// Stores the information returned by the server
+      						// to be updated
+      						JSClient		= jsMessage.data
+      						
+      						// Allows users to authenticate
+      						MyWindow.Plane	= 2 
+      						
+      					// Error managed by the server
+      					case "bad_request"
+      						
+      					// Response to <ping>
+      					case "pong"
+      						
+      						// The connection is valid
+      						
+      					// Another client writes
+      					case "typing"
+      						
+      						// Searches for the client
+      						let X = LooperSearch(ATT_ID, jsMessage.data.id)
+      						if X > 0 then
+      							// Indicates that the client writes
+      							ATT_WRITE[ X ] = True
+      						end
+      						
+      					// The list of clients was received
+      					case "member_list"
+      						
+      						// Enumerates cliients
+      						for each client of jsMessage.data
+      							
+      							// Ignores current client
+      							if client.id = JSClient.id then continue
+      							
+      							// Adds client to the list
+      							let X = LOOP_CLIENTS.AddLine()
+      							
+      							LOOP_CLIENTS[ X ].ATT_ID		= client.id
+      							LOOP_CLIENTS[ X ].ATT_NAME		= client.nom
+      							LOOP_CLIENTS[ X ].ATT_WRITE		= False						
+      						end
+      						
+      						
+      					// Another client entered the chat
+      					case "member_added"
+      						
+      						// Ignores current client
+      						if jsMessage.data.id = JSClient.id then break switch
+      						
+      						// Adds client to the list
+      						let X = LOOP_CLIENTS.AddLine()
+      						LOOP_CLIENTS[ X ].ATT_ID		= jsMessage.data.id
+      						LOOP_CLIENTS[ X ].ATT_NAME		= jsMessage.data.nom
+      						LOOP_CLIENTS[ X ].ATT_WRITE		= False
+      						
+      					// Another client left the chat
+      					case "member_removed"
+      						
+      						// Searches for the client
+      						let X = LooperSearch(ATT_ID, jsMessage.data.id)
+      						if X > 0 then
+      							// Deletes the customer
+      							LOOP_CLIENTS.Delete(X)
+      						end
+      						
+      					// Another client sent a message
+      					case "received"
+      						
+      						let X = LooperSearch(ATT_ID, jsMessage.data.from.id)
+      						if X > 0 then
+      							// Indicates that the client is no longer writing
+      							ATT_WRITE[ X ] = False
+      						end
+      						
+      						// Adds message to the list
+      						let Y = LOOP_Messages.AddLine()
+      						LOOP_MESSAGES[ Y ].ATT_WHO		= jsMessage.data.from.nom
+      						LOOP_MESSAGES[ Y ].ATT_Message	= jsMessage.data.text
+      						
+      					// The server disconnects
+      					case "server_shutdown"
+      						
+      						// Close the socket
+      						SocketClose("client")					
+      						
+      				end
+      				
+      			// Error 
+      			case SocketError			
+      				
+      				// The socket will be closed. Complete in SocketClosing
+      				STC_INFO		= "An error occurred" + CR + sMessage
+      				
+      			// Close 
+      			case SocketClosing
+      				
+      				STC_INFO		+= [ CR ] + "The connection to the server has been interrupted ([%sMessage%])"
+      				MyWindow.Plane	= 1
+      				
+      				EndTimer(PingTimerID)
+      				PingTimerID = 0
+      				
+      		end
+      		
+      	end 
+      
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1-
+      
+     type : 40
+ code_parameters :
+  internal_properties : CAAAAAgAAAB/E2SZRb9VnQU5+PivybZwVafwXhgCAWSYftdyjxWxFx7cb58ydr0ud57ZygZVSIIWCI/Me2Ok
+  original_name : Modele1
+resources :
+ string_res :
+  identifier : 0x1204e83800145c1c
+  internal_properties : CAAAAAgAAAA7wCugPa3Llh29up4VO+T++wa3OrewuQ3WP4NJV47trUqhlqE=
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
